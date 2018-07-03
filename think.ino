@@ -4,9 +4,9 @@
 #define RX 10
 #define TX 11
 dht DHT;
-String AP = "cyborg"; // CHANGE ME
-String PASS = "1234567890"; // CHANGE ME
-String API = "Access Key"; // CHANGE ME
+String AP = "WIFI_NAME"; // CHANGE ME
+String PASS = "WIFI_PASSWORD"; // CHANGE ME
+String API = "ACCESS_KEY"; // CHANGE ME
 String HOST = "api.thingspeak.com";
 String PORT = "80";
 String fieldi = "field1";
